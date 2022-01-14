@@ -1,0 +1,267 @@
+{
+  "workspaces": {
+    "三体-阅读": {
+      "main": {
+        "id": "021406060676db43",
+        "type": "split",
+        "children": [
+          {
+            "id": "7fa54fbe6322ab23",
+            "type": "leaf",
+            "dimension": 59.40860215053764,
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "银河与幻想/三体/三体-批注.md"
+              }
+            }
+          },
+          {
+            "id": "b3619612af9f6432",
+            "type": "split",
+            "dimension": 40.59139784946236,
+            "children": [
+              {
+                "id": "5708b0d4bcc9a58e",
+                "type": "leaf",
+                "dimension": 27.833001988071572,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "银河与幻想/三体/三体-背景.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8fc55776966fb009",
+                "type": "leaf",
+                "dimension": 30.715705765407552,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "银河与幻想/三体/三体-人物.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "0ac551284e00af58",
+                "type": "leaf",
+                "dimension": 41.45129224652088,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "银河与幻想/三体/三体-时间线.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "99fbb8d401bd13fe",
+        "type": "split",
+        "children": [
+          {
+            "id": "c64a4114f966e9a6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7c0158fddeefaf16",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a808a0e9c52ed958",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 216
+      },
+      "right": {
+        "id": "728be1edf20db76a",
+        "type": "split",
+        "children": [
+          {
+            "id": "967d7c0500321f2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57f48b5785a25b5e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "银河与幻想/三体/三体-时间线.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "0ac551284e00af58"
+    },
+    "学会提问-布局": {
+      "main": {
+        "id": "021406060676db43",
+        "type": "split",
+        "children": [
+          {
+            "id": "033a803b18b9f982",
+            "type": "leaf",
+            "dimension": 61.236559139784944,
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "个人提升/学会提问/学会提问-批注.md"
+              }
+            }
+          },
+          {
+            "id": "55eb8cc23594e457",
+            "type": "split",
+            "dimension": 38.763440860215056,
+            "children": [
+              {
+                "id": "03462db19deba6ad",
+                "type": "leaf",
+                "dimension": 34.59244532803181,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "个人提升/学会提问/学会提问-笔记.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e05005f2a3bfaa75",
+                "type": "leaf",
+                "dimension": 65.4075546719682,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "个人提升/学会提问/学会提问-例题.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "99fbb8d401bd13fe",
+        "type": "split",
+        "children": [
+          {
+            "id": "c64a4114f966e9a6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7c0158fddeefaf16",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a808a0e9c52ed958",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 226,
+        "collapsed": true
+      },
+      "right": {
+        "id": "728be1edf20db76a",
+        "type": "split",
+        "children": [
+          {
+            "id": "967d7c0500321f2f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57f48b5785a25b5e",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "个人提升/学会提问/学会提问-笔记.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "03462db19deba6ad"
+    }
+  },
+  "active": "学会提问-布局"
+}

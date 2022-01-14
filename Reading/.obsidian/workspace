@@ -1,0 +1,137 @@
+{
+  "main": {
+    "id": "021406060676db43",
+    "type": "split",
+    "children": [
+      {
+        "id": "033a803b18b9f982",
+        "type": "leaf",
+        "dimension": 61.236559139784944,
+        "state": {
+          "type": "pdf-annotator",
+          "state": {
+            "file": "个人提升/学会提问/学会提问-批注.md"
+          }
+        }
+      },
+      {
+        "id": "55eb8cc23594e457",
+        "type": "split",
+        "dimension": 38.763440860215056,
+        "children": [
+          {
+            "id": "03462db19deba6ad",
+            "type": "leaf",
+            "dimension": 54.771371769383705,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "个人提升/学会提问/学会提问-笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e05005f2a3bfaa75",
+            "type": "leaf",
+            "dimension": 45.2286282306163,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "个人提升/学会提问/学会提问-例题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99fbb8d401bd13fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c64a4114f966e9a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c0158fddeefaf16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a808a0e9c52ed958",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 226,
+    "collapsed": true
+  },
+  "right": {
+    "id": "728be1edf20db76a",
+    "type": "split",
+    "children": [
+      {
+        "id": "967d7c0500321f2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57f48b5785a25b5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "个人提升/学会提问/学会提问-笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "03462db19deba6ad",
+  "lastOpenFiles": [
+    "个人提升/学会提问/学会提问-笔记.md",
+    "个人提升/学会提问/学会提问-例题.md",
+    "个人提升/学会提问/学会提问-批注.md",
+    "个人提升/学会提问/学会提问-感悟.md",
+    "银河与幻想/三体/人物/杨冬.md",
+    "银河与幻想/三体/人物/丁仪.md",
+    "银河与幻想/三体/三体-批注.md",
+    "银河与幻想/三体/三体-时间线.md",
+    "银河与幻想/三体/三体-背景.md",
+    "银河与幻想/三体/三体-人物.md"
+  ]
+}
