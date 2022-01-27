@@ -1,6 +1,11 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "attachmentFolderPath": "assets",
-  "promptDelete": false
+  "attachmentFolderPath": "./assets",
+  "promptDelete": false,
+  "autoPairBrackets": false,
+  "tabSize": 4,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "readableLineLength": false
 }

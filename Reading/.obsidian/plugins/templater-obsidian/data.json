@@ -1,14 +1,14 @@
 {
   "command_timeout": 5,
-  "templates_folder": "assets/templates",
+  "templates_folder": "Template",
   "templates_pairs": [
     [
       "",
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
-  "auto_jump_to_cursor": false,
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
@@ -20,10 +20,6 @@
     }
   ],
   "syntax_highlighting": true,
-  "enabled_templates_hotkeys": [
-    "assets/templates/人物卡.md"
-  ],
-  "startup_templates": [
-    ""
-  ]
+  "enabled_templates_hotkeys": [],
+  "startup_templates": []
 }

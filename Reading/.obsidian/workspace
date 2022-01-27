@@ -4,49 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "033a803b18b9f982",
+        "id": "4370d7a3fefc314e",
         "type": "leaf",
-        "dimension": 61.23655913978494,
         "state": {
-          "type": "pdf-annotator",
+          "type": "markdown",
           "state": {
-            "file": "个人提升/学会提问/学会提问-批注.md"
+            "file": "index.md",
+            "mode": "source",
+            "source": false
           }
         }
-      },
-      {
-        "id": "55eb8cc23594e457",
-        "type": "split",
-        "dimension": 38.763440860215056,
-        "children": [
-          {
-            "id": "03462db19deba6ad",
-            "type": "leaf",
-            "dimension": 42.44532803180914,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "个人提升/学会提问/学会提问-笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e05005f2a3bfaa75",
-            "type": "leaf",
-            "dimension": 57.55467196819085,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "个人提升/学会提问/学会提问-例题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226,
-    "collapsed": true
+    "width": 292
   },
   "right": {
     "id": "728be1edf20db76a",
@@ -103,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "个人提升/学会提问/学会提问-笔记.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,25 +79,36 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "98c683dfc2c776c1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "03462db19deba6ad",
+  "active": "4370d7a3fefc314e",
   "lastOpenFiles": [
-    "个人提升/学会提问/学会提问-笔记.md",
-    "个人提升/学会提问/学会提问-例题.md",
-    "个人提升/学会提问/学会提问-批注.md",
-    "银河与幻想/三体/三体-时间线.md",
-    "个人提升/学会提问/学会提问-感悟.md",
-    "银河与幻想/三体/人物/杨冬.md",
-    "银河与幻想/三体/人物/丁仪.md",
-    "银河与幻想/三体/三体-批注.md",
-    "银河与幻想/三体/三体-背景.md",
-    "银河与幻想/三体/三体-人物.md"
+    "index.md",
+    "银河与幻想/三体/三体.md",
+    "银河与幻想/仿生人会梦见电子羊吗/仿生人会梦见电子羊吗.md",
+    "银河与幻想/三体/assets/image-20211010221645687.png",
+    "Template/book_summary.md",
+    "社会与现实/82年生的金智英/82年生的金智英.md",
+    "社会与现实/动物农场/动物农场.md",
+    "社会与现实/无声告白/无声告白.md",
+    "社会与现实/许三观卖血记/许三观卖血记.md",
+    "个人提升/好好说话（奇葩说团队）/好好说话(奇葩说团队).md"
   ]
 }
