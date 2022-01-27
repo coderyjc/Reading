@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4370d7a3fefc314e",
+        "id": "425a8603311e5cbe",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -98,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4370d7a3fefc314e",
+  "active": "425a8603311e5cbe",
   "lastOpenFiles": [
+    "assets/朝闻道.pdf",
+    "assets/三体.pdf",
+    "银河与幻想/短篇小说/朝闻道/朝闻道-批注.md",
+    "银河与幻想/三体/三体-批注.md",
+    "Template/book_annotation.md",
     "index.md",
-    "银河与幻想/三体/三体.md",
-    "银河与幻想/仿生人会梦见电子羊吗/仿生人会梦见电子羊吗.md",
-    "银河与幻想/三体/assets/image-20211010221645687.png",
+    "Template/person_infomation.md",
     "Template/book_summary.md",
-    "社会与现实/82年生的金智英/82年生的金智英.md",
-    "社会与现实/动物农场/动物农场.md",
-    "社会与现实/无声告白/无声告白.md",
-    "社会与现实/许三观卖血记/许三观卖血记.md",
-    "个人提升/好好说话（奇葩说团队）/好好说话(奇葩说团队).md"
+    "个人提升/蔡康永的说话之道/蔡康永的说话之道.md",
+    "谜团与真相/动物园/动物园.md"
   ]
 }
