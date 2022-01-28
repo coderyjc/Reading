@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "425a8603311e5cbe",
+        "id": "b0384260f12eddf8",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 216
   },
   "right": {
     "id": "728be1edf20db76a",
@@ -76,32 +76,31 @@
             }
           },
           {
-            "id": "98c683dfc2c776c1",
+            "id": "46ce8129b3abf7ea",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "425a8603311e5cbe",
+  "active": "b0384260f12eddf8",
   "lastOpenFiles": [
-    "assets/朝闻道.pdf",
+    "assets/地火.pdf",
+    "assets/非暴力沟通.pdf",
     "assets/三体.pdf",
-    "银河与幻想/短篇小说/朝闻道/朝闻道-批注.md",
-    "银河与幻想/三体/三体-批注.md",
-    "Template/book_annotation.md",
+    "assets/赡养人类.pdf",
+    "assets/乡村教师.pdf",
+    "assets/带上她的眼睛.pdf",
+    "银河与幻想/短篇小说/赡养人类/赡养人类.md",
     "index.md",
-    "Template/person_infomation.md",
-    "Template/book_summary.md",
-    "个人提升/蔡康永的说话之道/蔡康永的说话之道.md",
-    "谜团与真相/动物园/动物园.md"
+    "银河与幻想/短篇小说/赡养人类/赡养人类-批注.md",
+    "银河与幻想/短篇小说/朝闻道/朝闻道.md"
   ]
 }
