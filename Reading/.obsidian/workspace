@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b0384260f12eddf8",
+        "id": "9c249ff6c6f54d9c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "个人提升/学会提问/学会提问.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "非暴力",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -65,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "个人提升/学会提问/学会提问.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "个人提升/学会提问/学会提问.md"
+              }
             }
           }
         ]
@@ -90,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0384260f12eddf8",
+  "active": "9c249ff6c6f54d9c",
   "lastOpenFiles": [
-    "assets/地火.pdf",
-    "assets/非暴力沟通.pdf",
-    "assets/三体.pdf",
-    "assets/赡养人类.pdf",
-    "assets/乡村教师.pdf",
-    "assets/带上她的眼睛.pdf",
+    "个人提升/学会提问/学会提问.md",
+    "个人提升/非暴力沟通/非暴力沟通.md",
+    "银河与幻想/仿生人会梦见电子羊吗/仿生人会梦见电子羊吗.md",
+    "银河与幻想/短篇小说/朝闻道/朝闻道.md",
+    "银河与幻想/短篇小说/地火/地火.md",
     "银河与幻想/短篇小说/赡养人类/赡养人类.md",
-    "index.md",
-    "银河与幻想/短篇小说/赡养人类/赡养人类-批注.md",
-    "银河与幻想/短篇小说/朝闻道/朝闻道.md"
+    "银河与幻想/短篇小说/乡村教师/乡村教师.md",
+    "银河与幻想/短篇小说/山/山.md",
+    "银河与幻想/短篇小说/朝闻道/朝闻道-批注.md",
+    "银河与幻想/三体/三体.md"
   ]
 }
