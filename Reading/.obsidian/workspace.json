@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "021406060676db43",
+    "type": "split",
+    "children": [
+      {
+        "id": "54d6eaadb9535f3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39ab30c0ad0b776c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_books/动物农场/动物农场.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99fbb8d401bd13fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "c64a4114f966e9a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c0158fddeefaf16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a808a0e9c52ed958",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "728be1edf20db76a",
+    "type": "split",
+    "children": [
+      {
+        "id": "967d7c0500321f2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57f48b5785a25b5e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_books/动物农场/动物农场.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46ce8129b3abf7ea",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_books/动物农场/动物农场.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "39ab30c0ad0b776c",
+  "lastOpenFiles": [
+    "_books/仿生人会梦见电子羊吗/仿生人会梦见电子羊吗.md",
+    "_books/时生/时生.md",
+    "_books/许三观卖血记/许三观卖血记.md",
+    "_books/解忧杂货店/解忧杂货店.md",
+    "_books/暗黑童话/暗黑童话.md",
+    "_books/82年生的金智英/82年生的金智英.md",
+    "_books/学会提问/学会提问.md",
+    "_books/三体/三体-时间线.md",
+    "淘金式思维.md",
+    "弱势批判思维.md"
+  ]
+}
