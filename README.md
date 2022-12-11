@@ -1,8 +1,14 @@
-# Reading
+# NoteSystem
 
 >Reading makes people go out of their narrow self.
 >
 ><span style="font-size:30px; font-weight:200">阅读意义，在于摆脱自我的狭隘。</span>
+
+2022.12.05
+
+读书笔记改名字并且全面改版，变为个人笔记系统。
+
+按照自己的工作流搭建了Obsidian笔记系统。
 
 ---
 
